@@ -1,6 +1,6 @@
 /*
 美区掌阅
-^https:\/\/api\.ireader\.mobi\/download\/fee_tpl\/.* url script-response-body NobyDa/Surge/JS/ireaderdown.js
+^https:\/\/api\.ireader\.mobi\/download\/fee_tpl\/.* url script-response-body ireaderdown.js
 
 Mimt=api.ireader.mobi
 */
