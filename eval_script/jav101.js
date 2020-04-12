@@ -3,7 +3,7 @@ https://zhhml.cn?code=BPZAWB&channelCode=share
 
 [rewrite_local] 
 #JAV101无限观看
-^https\:\/\/api\..*\.cn\/v1\/user\/info url script-response-body JAV101.js
+^https\:\/\/api\..*\.cn\/v1\/user\/info url script-response-body jav101.js
 [mitm] hostname = api.*.cn,
 
 */
