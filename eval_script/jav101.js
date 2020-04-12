@@ -1,6 +1,3 @@
-/*
-@supported E7705E68C616
-*/
 /* Quantumult X 脚本: 啪啪啪研究所vip❤凉意  下载链接🔗推荐码：BPZAWB
 https://zhhml.cn?code=BPZAWB&channelCode=share
 
