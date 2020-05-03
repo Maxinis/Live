@@ -1,24 +1,4 @@
-hostname=app.xunjiepdf.com,rest.zhibo.tv,biz.caiyunapp.com,note.youdao.com,i.weread.qq.com,api.ireader.mobi,*.*apps.com,*.xiao*.com,api.*.cn,*.bjxkhc.com,bea.sportq.com,api.meiyan.com,api.gao1gps.cn,avoscloud.com,app.flashdown365.com,m.samh.xndm.tech,mob2015.kekenet.com,api.m.jd.com,ios.prod.ftl.netflix.com,vipapi.jxedt.com,api.interpreter.caiyunai.com,pocketlists.com,book.haitunwallet.com,mubu.com,miaow.yiyongcad.com,api.lennou.com,api.gkocr.com,vira.llsapp.com,commerce-.*api.faceu.mobi,commerce-api.faceu.mobi,pan.baidu.com,api.revenuecat.com,api.rr.tv,editorapi.115.com,api.lakecoloring.com,ctrl.playcvn.com,dict.eudic.net,m.client.10010.com,api.wakamoment.ga,*.bh3.com,api.diyidan.net,api.flexibits.com,api.jiaonizuocai.com,api.sololearn.com,tncj.hortorgames.com,m.pearkin.com,claritywallpaper.com,bookapi.ihuman.com,billing.peakcloud.org,api.ithome.com,www.xmind.cn,*.arten.cn,api.weiqire.com,api.shimo.im,pay.wecut.com,*.videostarapp.com,app.api.versa-ai.com,api.591master.com,jdytv.cn,user.shywck.com,*.xunjie*.com,api.psy-1.com,snailsleep.net,api.weibo.cn,mapi.weibo.com,*.uve.weibo.com,mp.weixin.qq.com,api.bilibili.com,app.bilibili.com,*.zhihu.com,aweme*.snssdk.com,*.kuwo.cn,vip1.kuwo.cn,*.xiaoxiao*.com,api*.tiktokv.com,*.musical.ly,*.amemv.com,p.du.163.com,getuserinfo.321mh.com,getuserinfo-globalapi.zymk.cn,ios.fuliapps.com,vsco.co,api.vnision.com,*.my10api.com,sp.kaola.com,r.inews.qq.com,apple.fuliapps.com,newdrugs.dxy.cn,app101.avictown.cc,api.hlo.xyz,api.ijo.xyz,www.luqijianggushi.com,account.wps.*,u.kanghuayun.com,api.gyrosco.pe,api1.dobenge.cn,api.mvmtv.com,mitaoapp.yeduapp.com,origin-prod-phoenix.jibjab.com,www.3ivf.com,pay.guoing.com,api.termius.com,api.bjxkhc.com,viva.v21xy.com,.com,api.gotokeep.com,ap*.intsig.net,mp.bybutter.com,api.vuevideo.net,api.picsart.c*,api.meiease.c*,splice.oracle.*.com,api.gamer.com.tw,ios.xiangjiaoapps.com,apple.xiangjiaoapps.com,*.xiangxiangapps.com,avatar-nct.nixcdn.com,spclient.wg.spotify.com,oa.zalo.me,api.unfold.app,viva-asia1.vvbrd.com,graph.nhaccuatui.com,api.memrise.com,api.sync.me,pool.elsanow.io,lambda.us-east-1.amazonaws.com,api.mondlylanguages.com,api.busuu.com,owa.videoshowiosglobalserver.com:0,accounts.elevateapp.net,purchases.ws.pho.to,api-intl.mr.meitu.com,bmall.camera360.com,api.tv.zing.vn,api.calm.com,www.calm.com,api.global.mp3.zing.vn,apimboom2.globaldelight.net,photos.adobe.io,license.pdfexpert.com,subs.platforms.team,apic.musixmatch.com,api.getmimo.com,engbright.com,api.lingokids.com,www.peacefulsoundsapp.com,duolingo-leaderboards-prod.duolingo.com,mobile-api.adguard.com,api.blinkist.com,api-kinemaster-assetstore.*,api.pushover.net,api.overhq.com,receipt-validator.herewetest.com,lcs-mobile-cops.adobe.io,education.github.com,backend.getdrafts.com,ssl-api.itranslateapp.com,sk.ulysses.app,dayone.me,license.enpass.io,*.grammarly.com,api.keepkeep.com,planner5d.com,secure.istreamer.com,www.api.monkeyuni.net,api.textnow.me,
-
-^https\:\/\/biz\.caiyunapp\.com\/v2\/user?app_name=weather url script-response-body eval_script.js
-
-https://note.youdao.com/yws/(mapi/payment|api/self) url script-response-body eval_script.js
-
-^https:\/\/i\.weread\.qq\.com\/pay\/memberCardSummary url script-response-body eval_script.js
-
-^https:\/\/api\.ireader\.mobi\/download\/fee_tpl\/.* url script-response-body eval_script.js
-
-https:\/\/.*\..*\.com\/(vod\/reqplay\/|ucp/index|getGlobalData) url script-response-body eval_script.js
-
-^https\:\/\/api\..*\.cn\/v1\/user\/info url script-response-body eval_script.js
-
-^https\:\/\/hjapi\.bjxkhc\.com\/v2d2\/users\/.*\/member url script-response-body eval_script.js
-
-^https:\/\/bea\.sportq\.com\/SFitWeb\/sfit\/getUserBaseInfo url script-response-body eval_script.js
-
-http:\/\/rest\.zhibo\.tv\/room\/get\-room\-info\-v430 url script-response-body eval_script.js
-
-^https://app.xunjiepdf.com/api/v4/virtualactregister url script-response-body eval_script.js
+hostname=bea.sportq.com,api.meiyan.com,api.gao1gps.cn,avoscloud.com,app.flashdown365.com,m.samh.xndm.tech,mob2015.kekenet.com,api.m.jd.com,ios.prod.ftl.netflix.com,vipapi.jxedt.com,api.interpreter.caiyunai.com,pocketlists.com,book.haitunwallet.com,mubu.com,app.xunjiepdf.com,miaow.yiyongcad.com,api.lennou.com,api.gkocr.com,vira.llsapp.com,commerce-.*api.faceu.mobi,commerce-api.faceu.mobi,pan.baidu.com,api.revenuecat.com,api.rr.tv,editorapi.115.com,api.lakecoloring.com,ctrl.playcvn.com,dict.eudic.net,m.client.10010.com,api.wakamoment.ga,*.bh3.com,api.diyidan.net,api.flexibits.com,api.jiaonizuocai.com,api.sololearn.com,tncj.hortorgames.com,m.pearkin.com,claritywallpaper.com,bookapi.ihuman.com,rest.zhibo.tv,note.youdao.com,billing.peakcloud.org,api.ithome.com,www.xmind.cn,*.arten.cn,api.weiqire.com,api.shimo.im,pay.wecut.com,*.videostarapp.com,app.api.versa-ai.com,*.bjxkhc.com,api.591master.com,jdytv.cn,user.shywck.com,*.xunjie*.com,api.psy-1.com,snailsleep.net,api.weibo.cn,mapi.weibo.com,*.uve.weibo.com,mp.weixin.qq.com,api.bilibili.com,app.bilibili.com,*.zhihu.com,aweme*.snssdk.com,*.kuwo.cn,vip1.kuwo.cn,*.xiaoxiao*.com,api*.tiktokv.com,*.musical.ly,*.amemv.com,p.du.163.com,getuserinfo.321mh.com,getuserinfo-globalapi.zymk.cn,ios.fuliapps.com,vsco.co,api.vnision.com,*.my10api.com,sp.kaola.com,r.inews.qq.com,apple.fuliapps.com,newdrugs.dxy.cn,app101.avictown.cc,api.hlo.xyz,api.ijo.xyz,www.luqijianggushi.com,account.wps.*,u.kanghuayun.com,api.gyrosco.pe,api1.dobenge.cn,api.mvmtv.com,mitaoapp.yeduapp.com,origin-prod-phoenix.jibjab.com,www.3ivf.com,pay.guoing.com,api.termius.com,api.bjxkhc.com,viva.v21xy.com,biz.caiyunapp.com,api.gotokeep.com,ap*.intsig.net,mp.bybutter.com,api.vuevideo.net,api.picsart.c*,api.meiease.c*,splice.oracle.*.com,api.gamer.com.tw,ios.xiangjiaoapps.com,apple.xiangjiaoapps.com,*.xiangxiangapps.com,avatar-nct.nixcdn.com,spclient.wg.spotify.com,oa.zalo.me,api.unfold.app,viva-asia1.vvbrd.com,graph.nhaccuatui.com,api.memrise.com,api.sync.me,pool.elsanow.io,lambda.us-east-1.amazonaws.com,api.mondlylanguages.com,api.busuu.com,owa.videoshowiosglobalserver.com:0,accounts.elevateapp.net,purchases.ws.pho.to,api-intl.mr.meitu.com,bmall.camera360.com,api.tv.zing.vn,api.calm.com,www.calm.com,api.global.mp3.zing.vn,apimboom2.globaldelight.net,photos.adobe.io,license.pdfexpert.com,subs.platforms.team,apic.musixmatch.com,api.getmimo.com,engbright.com,api.lingokids.com,www.peacefulsoundsapp.com,duolingo-leaderboards-prod.duolingo.com,mobile-api.adguard.com,api.blinkist.com,api-kinemaster-assetstore.*,api.pushover.net,api.overhq.com,receipt-validator.herewetest.com,lcs-mobile-cops.adobe.io,education.github.com,backend.getdrafts.com,ssl-api.itranslateapp.com,sk.ulysses.app,dayone.me,license.enpass.io,*.grammarly.com,api.keepkeep.com,planner5d.com,secure.istreamer.com,www.api.monkeyuni.net,api.textnow.me,,duoting.tatatimes.com,micro-tool-api.foundao.com,i.weread.qq.com,api.ireader.mobi,*.*apps.com,*.xiao*.com,api.*.cn
 
 ^https?://(sdk|wb)app\.uve\.weibo\.com(/interface/sdk/sdkad.php|/wbapplua/wbpullad.lua) url script-response-body eval_script.js
 
@@ -54,7 +34,9 @@ https://api.live.bilibili.com/xlive/app-room/v1/index/getInfoByRoom\?access_key 
 
 https:\/\/.*\.xiaoxiao.*\.com\/(vod\/reqplay\/|ucp/index|getGlobalData) url script-response-body eval_script.js
 
-^http(s)://mjapp.anlujia.com/index.php/app/ios/(vod/show|(user|vod|topic|type)/index) url script-response-body eval_script.js
+https:\/\/.*\/getGlobalData url script-response-body eval_script.js
+
+^http(s)://api.bjxkhc.com/index.php/app/ios/(vod/show|(user|vod|topic|type)/index) url script-response-body eval_script.js
 
 ^https?:\/\/p\.du\.163\.com\/gain\/readtime\/info\.json url script-response-body eval_script.js
 
@@ -62,7 +44,7 @@ https:\/\/.*\.xiaoxiao.*\.com\/(vod\/reqplay\/|ucp/index|getGlobalData) url scri
 
 ^https://getuserinfo-globalapi.zymk.cn/app_api/v5/(getuserinfo|coin_account|getuserinfo_ticket|getcomicinfo)/ url script-response-body eval_script.js
 
-^https?:\/\/api\.bilibili\.com\/pgc\/player\/api\/playurl url script-response-body eval_script.js
+https:\/\/ap(p|i)\.bilibili\.com\/((pgc\/player\/api\/playurl)|(x\/v2\/account\/myinfo\?)|(x\/v2\/account/mine\?)) url script-response-body eval_script.js
 
 ^https?:\/\/vsco\.co\/api\/subscriptions\/2.1\/user-subscriptions\/ url script-response-body eval_script.js
 
@@ -270,6 +252,10 @@ https:\/\/api\.sololearn\.com\/(authenticateDevice|challenge\/GetContestFeed|Pro
 
 https:\/\/bookapi\.ihuman\.com\/(v1\/get\_user\_info|v1\/get\_purchase\_list) url script-response-body eval_script.js
 
+http:\/\/rest\.zhibo\.tv\/room\/get\-room\-info\-v430 url script-response-body eval_script.js
+
+https://note.youdao.com/yws/(mapi/payment|api/self) url script-response-body eval_script.js
+
 ^https:\/\/billing\.peakcloud\.org\/billing\/2\/user\/me? url script-response-body eval_script.js
 
 ^https?:\/\/api\.ithome\.com\/json\/slide\/index url script-response-body eval_script.js
@@ -289,6 +275,8 @@ https://api.shimo.im/users/ url script-response-body eval_script.js
 https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body eval_script.js
 
 https://app.api.versa-ai.com/pay/order/iap/check url script-response-body eval_script.js
+
+^https\:\/\/hjapi\.bjxkhc\.com\/v2d2\/users\/.*\/member url script-response-body eval_script.js
 
 http:\/\/api\.591master\.com\:8081\/(1.0|3.6.8)\/ui(forum|common)\/(downloadwallpaper|getuser) url script-response-body eval_script.js
 
@@ -314,6 +302,8 @@ http://user.shywck.com/user/userinfo url script-response-body eval_script.js
 
 ^https:\/\/api\.meiyan\.com\/iap\/verify\.json url script-response-body eval_script.js
 
+^https:\/\/bea\.sportq\.com\/SFitWeb\/sfit\/getUserBaseInfo url script-response-body eval_script.js
+
 ^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig) url script-response-body eval_script.js
 
 ^http://.+/amdc/mobileDispatch url script-request-body eval_script.js
@@ -323,3 +313,19 @@ http://user.shywck.com/user/userinfo url script-response-body eval_script.js
 ^https?://ios\.prod\.ftl\.netflix\.com/iosui/user/.+path=%5B%22videos%22%2C%\d+%22%2C%22summary%22%5D url script-request-header eval_script.js
 
 ^https?://ios\.prod\.ftl\.netflix\.com/iosui/user/.+path=%5B%22videos%22%2C%\d+%22%2C%22summary%22%5D url script-response-body eval_script.js
+
+^https\:\/\/biz\.caiyunapp\.com\/v2\/user?app_name=weather url script-response-body eval_script.js
+
+^https:\/\/i\.weread\.qq\.com\/pay\/memberCardSummary url script-response-body eval_script.js
+
+^https:\/\/api\.ireader\.mobi\/download\/fee_tpl\/.* url script-response-body eval_script.js
+
+https:\/\/.*\..*\.com\/(vod\/reqplay\/|ucp/index|getGlobalData) url script-response-body eval_script.js
+
+^https\:\/\/api\..*\.cn\/v1\/user\/info url script-response-body eval_script.js
+
+^https://app.xunjiepdf.com/api/v4/virtualactregister url script-response-body eval_script.js
+
+http://micro-tool-api.foundao.com/orderPayCenterService/user/userInfo url script-response-body eval_script.js
+
+http://duoting.tatatimes.com/tataeraapi/api.s\?h=QueryVipUser url script-response-body eval_script.js
