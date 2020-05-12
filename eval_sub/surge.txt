@@ -318,6 +318,8 @@ http-request ^https?://ios\.prod\.ftl\.netflix\.com/iosui/user/.+path=%5B%22vide
 
 http-response ^https?://ios\.prod\.ftl\.netflix\.com/iosui/user/.+path=%5B%22videos%22%2C%\d+%22%2C%22summary%22%5D requires-body=1,script-path=eval_script.js
 
+http-response ^https?://ios\.prod\.ftl\.netflix\.com/iosui/warmer/.+type=show-ath requires-body=1,script-path=eval_script.js
+
 http-response ^https\:\/\/biz\.caiyunapp\.com\/v2\/user?app_name=weather requires-body=1,script-path=eval_script.js
 
 http-response ^https:\/\/i\.weread\.qq\.com\/pay\/memberCardSummary requires-body=1,script-path=eval_script.js
