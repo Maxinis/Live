@@ -153,7 +153,7 @@ final, 黑白名单
 
 [rewrite_local]
 # rewrite 复写远程订阅
-https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/General.conf, tag=神机规则重定向, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/General.conf, tag=神机重定向, update-interval=86400, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/zwf234/rules/master/qxrules.conf, tag=奇心规则合集, update-interval=86400, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf, tag=神机去广告, update-interval=86400, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/AdvertisingPlus.conf, tag=神机去广告 Plus, update-interval=86400, opt-parser=false, enabled=true
