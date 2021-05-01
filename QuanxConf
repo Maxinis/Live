@@ -108,6 +108,8 @@ https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Ext
 
 [rewrite_remote]
 # 远程重写订阅
+
+https://raw.githubusercontent.com/zwf234/rules/master/qxrules.conf, tag=奇心规则合集, update-interval=86400, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/Orz-3/QuantumultX/master/TikTok.conf, tag=Tiktok解锁, update-interval=86400, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/Orz-3/QuantumultX/master/YouTube.conf , tag=YouTube去广告, update-interval=86400, opt-parser=false, enabled=false
 https://raw.githubusercontent.com/Orz-3/QuantumultX/master/JS.conf, tag=Script, update-interval=86400, opt-parser=false, enabled=true
@@ -115,7 +117,7 @@ https://raw.githubusercontent.com/Orz-3/QuantumultX/master/JS_GetCookie.conf, ta
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf, tag=神机去广告, update-interval=86400, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Rewrite_lhie1.conf, tag=lhie1去广告, update-interval=86400, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/General.conf, tag=神机重定向, update-interval=86400, opt-parser=false, enabled=true
-
+https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.quanx.conf, tag=BoxJS 商店版, update-interval=86400, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js.conf, tag=NobyDa Js, update-interval=86400, opt-parser=true, enabled=false
 
 https://raw.githubusercontent.com/mymoonyue/QuantumultX/master/Scripts/emby.conf, tag=Emby, update-interval=86400, opt-parser=true, enabled=true
@@ -153,16 +155,6 @@ final, 黑白名单
 
 [rewrite_local]
 # rewrite 复写远程订阅
-
-https://raw.githubusercontent.com/zwf234/rules/master/qxrules.conf, tag=奇心规则合集, update-interval=86400, opt-parser=false, enabled=true
-https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf, tag=神机去广告, update-interval=86400, opt-parser=false, enabled=true
-https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/AdvertisingPlus.conf, tag=神机去广告 Plus, update-interval=86400, opt-parser=false, enabled=true
-https://raw.githubusercontent.com/zwf234/rules/master/TikTok/JP.conf, tag=解锁TikTok（更改后缀换区）, update-interval=86400, opt-parser=false, enabled=true
-https://qxzy.top/rules/QuantumultX/gz/getCookie1.conf, tag=获取Cookie1（获取完就禁用）, update-interval=86400, opt-parser=false, enabled=false
-https://raw.githubusercontent.com/zwf234/rules/master/getCookie.conf, tag=获取Cookie（获取完就禁用）, update-interval=86400, opt-parser=false, enabled=true
-https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.quanx.tf.conf, tag=BoxJs tf版, update-interval=86400, opt-parser=false, enabled=false
-https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.quanx.conf, tag=BoxJS 商店版, update-interval=86400, opt-parser=false, enabled=true
-https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Rewrite_lhie1.conf, tag=lhie1去广告, update-interval=86400, opt-parser=false, enabled=true
 
 [task_local]
 #Task远程订阅  https://raw.githubusercontent.com/zwf234/rules/master/qixin.json
