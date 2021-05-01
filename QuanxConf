@@ -66,7 +66,7 @@ https://qxzy.top/tool.txt, tag=奇心科技, img-url=https://qxzy.top/rules/Quan
 #解锁网易云灰色音乐原订阅地址：https://git.io/JfNq3
 https://qxzy.top/rules/QuantumultX/gz/wyy.list, tag=网易云解锁灰色, img-url=https://qxzy.top/rules/QuantumultX/img/Netease_Music.png, update-interval=86400, opt-parser=true, enabled=true
 # 节点远程订阅，自行添加
-https://bigairport.icu/api/v1/client/subscribe?token=c6a2b3b709d433ae5eebb6c4ca470bcf, tag=大机场，update-interval=86400, opt-parser=true, enabled=true
+
 [filter_remote]
 # 规则修正，建议保持启用
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list, tag=规则修正, force-policy=direct, update-interval=86400, opt-parser=true, enabled=true
